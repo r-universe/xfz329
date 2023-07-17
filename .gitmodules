@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "pk4adi"]
+	path = pk4adi
+	url = https://github.com/xfz329/rpk4adi
